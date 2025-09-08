@@ -1,0 +1,19 @@
+.Flag {
+    height: 300px;
+    width: 400px;
+    background-color: #ed2939;
+    display: grid;
+    border: 1px black solid;
+} 
+
+.stripe .red{ 
+    width: 100%;
+    background: #ed2939;
+}
+  
+.white {
+    background: white;
+}
+
+
+
